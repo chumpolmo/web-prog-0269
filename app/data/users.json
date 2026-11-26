@@ -1,0 +1,34 @@
+[
+  {
+    "userId": 1,
+    "userFullname": "Somchai Jaidee",
+    "userEmail": "somchai.jai@mail.com",
+    "userAvatar": "/images/profile_1.png",
+    "userRole": "Administrator",
+    "userActive": true
+  },
+  {
+    "userId": 2,
+    "userFullname": "Mongkol Romance",
+    "userEmail": "mongkol.rom@mail.com",
+    "userAvatar": "/images/profile_2.jpg",
+    "userRole": "Staff",
+    "userActive": true
+  },
+  {
+    "userId": 3,
+    "userFullname": "Anan Aunwa",
+    "userEmail": "anan.aun@mail.com",
+    "userAvatar": "/images/profile_3.jpg",
+    "userRole": "Staff",
+    "userActive": true
+  },
+  {
+    "userId": 4,
+    "userFullname": "Chujima Waree",
+    "userEmail": "chujima.war@mail.com",
+    "userAvatar": "/images/profile_4.jpg",
+    "userRole": "Customer",
+    "userActive": true
+  }
+]
